@@ -1,1 +1,3 @@
 kikou !
+
+J'ajoute quelques lignes à commit pour faire le git stash sur la test-branche2
